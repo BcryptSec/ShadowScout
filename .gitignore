@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Custom ShadowScout rules ---
+# Ignore scan reports to prevent accidental data leaks
+*.json

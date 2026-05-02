@@ -33,7 +33,7 @@ Ensure you have Python 3.7+ installed.
 
    ```bash
    
-   pip install .
+   pip install . --break-system-packages
  
 💻 Usage
 ShadowScout is designed to be simple yet powerful.

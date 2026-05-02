@@ -35,7 +35,7 @@ Ensure you have Python 3.7+ installed.
    
    pip install . --break-system-packages
  
-💻 Usage:
+💻 Usage
 
 ShadowScout is designed to be simple yet powerful.
 
@@ -58,10 +58,11 @@ ShadowScout is designed to be simple yet powerful.
    shadowscout -u https://example.com -o report.json
 
 🛡️ Security Logic & Scoring
+
 ShadowScout evaluates target security posture by looking for high-impact exposures
 
 <img width="841" height="346" alt="image" src="https://github.com/user-attachments/assets/517150d1-5275-423d-ac37-9adafafbae9c" />
 
-⚖️ Disclaimer:
+⚖️ Disclaimer
 
 This tool is for educational and ethical security testing purposes only. Unauthorized scanning of targets without prior mutual consent is illegal. The developer (BcryptSec) assumes no liability for misuse or damage caused by this program.

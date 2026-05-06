@@ -33,7 +33,7 @@ Ensure you have Python 3.7+ installed.
 
    ```bash
    
-   pip install . --break-system-packages
+   pip install .
  
 💻 Usage
 
